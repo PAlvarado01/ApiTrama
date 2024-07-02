@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PIERO\\.nuget\\packages\\": {}
+    "C:\\Users\\palvarado\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PIERO\\OneDrive - GLOBAL TPA\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\Grupo5.Business.csproj",
+      "projectUniqueName": "C:\\Users\\palvarado\\Documents\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\Grupo5.Business.csproj",
       "projectName": "Grupo5.Business",
-      "projectPath": "C:\\Users\\PIERO\\OneDrive - GLOBAL TPA\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\Grupo5.Business.csproj",
-      "packagesPath": "C:\\Users\\PIERO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PIERO\\OneDrive - GLOBAL TPA\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\obj\\",
+      "projectPath": "C:\\Users\\palvarado\\Documents\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\Grupo5.Business.csproj",
+      "packagesPath": "C:\\Users\\palvarado\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\palvarado\\Documents\\PALVARADO\\CLONACIONES FUENTES\\GRUPO 5\\ApiTrama\\Grupo5\\Grupo5.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PIERO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\palvarado\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,11 +51,12 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
