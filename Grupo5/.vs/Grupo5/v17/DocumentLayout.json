@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\controllers\\generatortramascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\controllers\\generatortramascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\input\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\input\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\validation\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\validation\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\input\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\input\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\validation\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\validation\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|c:\\users\\piero\\desktop\\escuelita\\escuelita\\grupo5\\grupo5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F2C4C3-E86D-4AE0-8AC1-E83AB118C541}|Grupo5\\Grupo5.csproj|solutionrelative:grupo5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Validation\\Input.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Validation\\Input.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Validation\\Input.cs",
+              "RelativeToolTip": "Grupo5\\Validation\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:45:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInput.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Validation\\IInput.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Validation\\IInput.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Validation\\IInput.cs",
+              "RelativeToolTip": "Grupo5\\Validation\\IInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:45:12.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Input\\Request.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Input\\Request.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Input\\Request.cs",
+              "RelativeToolTip": "Grupo5\\Input\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:26:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Input\\RequestValidator.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Input\\RequestValidator.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Input\\RequestValidator.cs",
+              "RelativeToolTip": "Grupo5\\Input\\RequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:21:18.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Grupo5\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:18:21.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Grupo5\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\WeatherForecast.cs",
+              "RelativeToolTip": "Grupo5\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:15:17.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneratorTramasController.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Controllers\\GeneratorTramasController.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Controllers\\GeneratorTramasController.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Controllers\\GeneratorTramasController.cs",
+              "RelativeToolTip": "Grupo5\\Controllers\\GeneratorTramasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:17:10.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Program.cs",
+              "RelativeDocumentMoniker": "Grupo5\\Program.cs",
+              "ToolTip": "C:\\Users\\PIERO\\Desktop\\Escuelita\\Escuelita\\Grupo5\\Grupo5\\Program.cs",
+              "RelativeToolTip": "Grupo5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:32:02.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
