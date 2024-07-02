@@ -9,6 +9,8 @@
       "Grupo5/1.0.0": {
         "dependencies": {
           "FluentValidation": "11.9.2",
+          "Grupo5.Business": "1.0.0",
+          "Grupo5.Data": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -69,6 +71,19 @@
             "fileVersion": "6.4.0.0"
           }
         }
+      },
+      "Grupo5.Business/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.9.2"
+        },
+        "runtime": {
+          "Grupo5.Business.dll": {}
+        }
+      },
+      "Grupo5.Data/1.0.0": {
+        "runtime": {
+          "Grupo5.Data.dll": {}
+        }
       }
     }
   },
@@ -126,6 +141,16 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "Grupo5.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grupo5.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

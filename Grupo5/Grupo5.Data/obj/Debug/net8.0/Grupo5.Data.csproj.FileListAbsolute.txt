@@ -1,0 +1,12 @@
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\bin\Debug\net8.0\Grupo5.Data.deps.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\bin\Debug\net8.0\Grupo5.Data.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\bin\Debug\net8.0\Grupo5.Data.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.AssemblyInfoInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.AssemblyInfo.cs
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.csproj.CoreCompileInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.sourcelink.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\refint\Grupo5.Data.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\Grupo5.Data.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Data\obj\Debug\net8.0\ref\Grupo5.Data.dll

@@ -3,7 +3,7 @@ using Grupo5.Business.Interfaces;
 
 namespace Grupo5.Input
 {
-    public class Request : InputService<Request, RequestValidator> , IInput
+    public class Request
     {
         public DateTime? fecInicial { get; private set; }
         public DateTime? fecFin { get; private set; }

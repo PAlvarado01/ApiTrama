@@ -1,4 +1,5 @@
-﻿using Grupo5.Input;
+﻿using Grupo5.Business.Interfaces;
+using Grupo5.Input;
 using Microsoft.AspNetCore.Mvc;
 using System.Text;
 
@@ -8,44 +9,34 @@ namespace Grupo5.Controllers
     [Route("[controller]")]
     public class GeneratorTramasController : ControllerBase
     {
+        private readonly IGeneratorTrama _GenerarTrama;
+
+        public GeneratorTramasController(IGeneratorTrama generarTrama)
+        {
+            _GenerarTrama = generarTrama;
+        }
+
         [HttpPost]
         public IActionResult GeneratorTramas([FromBody] Request RequestA)
         {
-           var input = new Request(RequestA.fecInicial,RequestA.fecFin,RequestA.tipoTrama);
+            var message = _GenerarTrama.Validation(RequestA);
 
-            if (!input.Validate(input).IsValid)
-                return Ok(input.SerializeErrors(input));
-
-            string filePath = "output.txt";
-            string fileContent = "This is a sample text file.";
-
-            // Create the file and write content to it
-            WriteTextToFileAsync(Path.Combine(Directory.GetCurrentDirectory(),filePath), fileContent);
-
-            // Read the file content
-            var bytes = ReadFileAsync(filePath).Result;
-
-            // Return the file content as a response
-            return File(bytes, "text/plain", RequestA.tipoTrama);
-        }
-
-        private async Task WriteTextToFileAsync(string filePath, string content)
-        {
-            using (FileStream fs = new FileStream(filePath, FileMode.Create, FileAccess.Write, FileShare.None))
-            using (StreamWriter writer = new StreamWriter(fs, Encoding.UTF8))
+            if (message != "")
             {
-                await writer.WriteAsync(content);
+                return Ok(message);
+            }
+            else
+            {
+                // Create the file and write content to it
+                _GenerarTrama.WriteTextToFileAsync();
+
+                // Read the file content
+                var bytes = _GenerarTrama.ReadFileAsync().Result;
+
+                // Return the file content as a response
+                return File(bytes, "text/plain", RequestA.tipoTrama);
             }
         }
 
-        private async Task<byte[]> ReadFileAsync(string filePath)
-        {
-            using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.Read))
-            using (MemoryStream ms = new MemoryStream())
-            {
-                await fs.CopyToAsync(ms);
-                return ms.ToArray();
-            }
-        }
     }
 }

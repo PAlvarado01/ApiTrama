@@ -31,3 +31,41 @@ C:\Users\PIERO\Desktop\Escuelita\Escuelita\Grupo5\Grupo5\obj\Debug\net8.0\refint
 C:\Users\PIERO\Desktop\Escuelita\Escuelita\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.pdb
 C:\Users\PIERO\Desktop\Escuelita\Escuelita\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.genruntimeconfig.cache
 C:\Users\PIERO\Desktop\Escuelita\Escuelita\Grupo5\Grupo5\obj\Debug\net8.0\ref\Grupo5.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\appsettings.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.exe
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.deps.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.runtimeconfig.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.Business.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.Data.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.Business.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\bin\Debug\net8.0\Grupo5.Data.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.csproj.AssemblyReference.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.AssemblyInfoInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.AssemblyInfo.cs
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.csproj.CoreCompileInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.sourcelink.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets\msbuild.Grupo5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets\msbuild.build.Grupo5.props
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Grupo5.props
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Grupo5.props
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\scopedcss\bundle\Grupo5.styles.css
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.csproj.Up2Date
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\refint\Grupo5.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\Grupo5.genruntimeconfig.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5\obj\Debug\net8.0\ref\Grupo5.dll

@@ -1,0 +1,13 @@
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\bin\Debug\net8.0\Grupo5.Business.deps.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\bin\Debug\net8.0\Grupo5.Business.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\bin\Debug\net8.0\Grupo5.Business.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.csproj.AssemblyReference.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.AssemblyInfoInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.AssemblyInfo.cs
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.csproj.CoreCompileInputs.cache
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.sourcelink.json
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\refint\Grupo5.Business.dll
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\Grupo5.Business.pdb
+C:\Users\PIERO\OneDrive - GLOBAL TPA\PALVARADO\CLONACIONES FUENTES\GRUPO 5\ApiTrama\Grupo5\Grupo5.Business\obj\Debug\net8.0\ref\Grupo5.Business.dll
