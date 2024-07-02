@@ -1,10 +1,11 @@
 ﻿using FluentValidation;
 using FluentValidation.Results;
+using Grupo5.Business.Interfaces;
 using System.Text;
 
-namespace Grupo5.Validation
+namespace Grupo5.Business.Services
 {
-    public abstract class Input<TInput, TValidator> where TInput : IInput where TValidator : AbstractValidator<TInput>
+    public abstract class InputService<TInput, TValidator> where TInput : IInput where TValidator : AbstractValidator<TInput>
     {
         public AbstractValidator<TInput> GetValidator() => Activator.CreateInstance<TValidator>();
 

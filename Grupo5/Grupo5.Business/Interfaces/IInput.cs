@@ -1,6 +1,6 @@
 ﻿using FluentValidation.Results;
 
-namespace Grupo5.Validation
+namespace Grupo5.Business.Interfaces
 {
     public interface IInput
     {

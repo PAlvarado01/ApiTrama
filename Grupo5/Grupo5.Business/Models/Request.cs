@@ -1,8 +1,9 @@
-﻿using Grupo5.Validation;
+﻿using Grupo5.Business.Services;
+using Grupo5.Business.Interfaces;
 
 namespace Grupo5.Input
 {
-    public class Request : Input<Request, RequestValidator> , IInput
+    public class Request : InputService<Request, RequestValidator> , IInput
     {
         public DateTime? fecInicial { get; private set; }
         public DateTime? fecFin { get; private set; }
